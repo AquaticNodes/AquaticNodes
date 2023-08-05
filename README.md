@@ -25,6 +25,6 @@
 ### Links
 
 - [Website](https://aquaticnodes.tech)
-- [Discord](https://discord.gg/u5aqmHhHhz)
+- [Discord](https://discord.gg/sJDA4QtVn8)
 - [Panel](https://panel.aquaticnodes.tech)
 - [Client Panel](https://client.aquaticnodes.tech)
